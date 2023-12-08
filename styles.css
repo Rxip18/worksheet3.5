@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(174, 0, 193);
+}
+
+h1{
+    font-family: Impact, Haettenchweiler, 'Arisl Narrow Bold', sans-serif;
+    font-size: 150px;
+    color: white;
+    font-style: normal;
+}
+.cake-text{
+    font-family: Verdana, Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    color: white;
+    font-size: 25px;
+    font-weight:bold;
+}
